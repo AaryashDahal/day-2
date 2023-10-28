@@ -1,0 +1,21 @@
+
+
+
+.Gradient {
+    background-image: linear-gradient(rgb(177, 111, 111), rgb(129, 129, 216));
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    position: sticky;
+    top:0px;
+}
+.contaner{
+    background-color: aquamarine;
+    border: 3px solid salmon;
+    height: 3000px;
+}
+    
+
+
+/*Types of positions= sticky,relative, absolute,fixed.
+we can use the factors line top , buttom, left, right to change the positions */
